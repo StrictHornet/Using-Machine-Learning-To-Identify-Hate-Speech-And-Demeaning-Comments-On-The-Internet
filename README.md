@@ -7,11 +7,11 @@ needed awareness of the problems at hand. Through this synergy of problem identi
 problem resolution we have created a more convenient world. We cannot stop now.  The internet 
 has brought about connectedness and has been a key element in the advancement of technology, 
 however, we are at a junction where the rate at which toxic data being uploaded on the internet is
- surpassing our ability to moderate toxic altercations  [1][2]. Human moderators that regulate toxic 
+ surpassing our ability to moderate toxic altercations. Human moderators that regulate toxic 
 content on the internet are having to endure challenging workloads and being diagnosed with 
 mental health illness such as post-traumatic stress disorder and chronic anxiety. The normalization 
 of toxicity on the internet is autocatalytic as it originates more toxicity and thus demands abrupt 
-action  [3]. This project aims to raise awareness of these alarming levels of toxicity and hate 
+action. This project aims to raise awareness of these alarming levels of toxicity and hate 
 speech, highlight the impact of this toxicity on the mental health of internet users and moderators 
 and put to light the current measures being taken to mitigate these trying state of affairs. This 
 project would also address how Artificial Intelligence in the form of Natural Language Processing 
