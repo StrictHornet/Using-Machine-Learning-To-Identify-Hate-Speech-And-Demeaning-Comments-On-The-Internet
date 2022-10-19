@@ -1,6 +1,6 @@
 About
 -------
-This project was developed to fulfill data analysis, visualization, sentiment analysis and classification of a twitter datase.
+This project was developed to fulfill data analysis, visualization, sentiment analysis and classification of a twitter dataset.
 
 Installation
 -------------
