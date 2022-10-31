@@ -1,5 +1,5 @@
 # Using-Machine-Learning-To-Identify-Hate-Speech-And-Demeaning-Comments-On-The-Internet
-Repo For Social Project
+Repository  For Social Project
 
 Great strides in computer science have always led to simpler living, however, these advancements 
 did not come without much-needed intervention through people who raised an equally much 
